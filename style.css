@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(./img/Header_BG_1_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170vh;
+    width: 100vw;
+}
+.logo{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    
+}
+.main-head{
+    position: absolute;
+    left: 35%;
+    top: 60%;
+    color: #fff;
+    font-family: 'Abril Fatface', cursive;
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:2px;
+}
+.hero-img{
+    position: absolute;
+    top: 70%;
+    left: 23%;
+   
+}
+.hero-img p{
+    color: #fff;
+    width: 800px;
+    /* padding: 20px; */
+    font-size: 20px;
+}
+.divider img{
+    width: 100vw;
+    margin-left: -335px;
+    margin-top: -20px;
+}
+.cofee{
+    text-align: center;
+}
+.cofee img{
+    margin: 50px 0 0 0;
+}
+.cofee-head{
+    color: #ee9189;
+    font-family: 'Abril Fatface', cursive;
+    font-size:40px;
+}
+.para{
+    color: #b48e81;
+}
+.cofee-para{
+    font-size: 22px;
+}
+.btn{
+    background-color: #ee9189;
+    color: #fff;
+    border-radius:10px;
+    padding: 10px 25px;
+    font-size: 22px;
+}
+
+.celebration{
+    text-align: center;
+    background-color: rgb(255, 248, 236);
+}
+.celebration-para{
+    font-size: 22px;
+}
+.celebration-head{
+    
+    font-family: 'Abril Fatface', cursive;
+    font-size:40px;
+}
+.footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
